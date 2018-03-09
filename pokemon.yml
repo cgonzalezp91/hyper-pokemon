@@ -1073,6 +1073,34 @@ pokemon:
     tertiary: '#600060'
     unibody: '#32A1E4'
 
+  # 990
+  link:
+    primary: '#2997BC'
+    secondary: '#FFFFFF'
+    tertiary: '#CF607C'
+    unibody: '#000000'
+
+  # 991
+  linkwolf:
+    primary: '#2997BC'
+    secondary: '#FFFFFF'
+    tertiary: '#CF607C'
+    unibody: '#000000'
+  
+  # 992
+  zelda:
+    primary: '#2997BC'
+    secondary: '#FFFFFF'
+    tertiary: '#CF607C'
+    unibody: '#000000'
+
+   # 992
+  sheik:
+    primary: '#2997BC'
+    secondary: '#FFFFFF'
+    tertiary: '#CF607C'
+    unibody: '#000000'
+
 ##
 # Default values
 ##
