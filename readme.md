@@ -255,6 +255,22 @@ You can preview in detail all of the available themes [here](https://klauscfhq.g
 
 </details><br/>
 
+#### Additional features
+
+<details>
+<summary>New features added, try this out.</summary>
+
+<br/>
+
+* `link`
+* `linkwolf`
+* `zelda`
+* `sheik`
+
+<br/>
+
+</details><br/>
+
 ## Related
 
 More awesome Hyper plugins.
